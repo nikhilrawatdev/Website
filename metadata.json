@@ -1,0 +1,6 @@
+{
+  "name": "THE CYBER ER – Phishing Diagnosis Simulator",
+  "description": "An interactive cybersecurity education simulator where users diagnose suspicious SMS, email, and social media messages to identify phishing red flags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
